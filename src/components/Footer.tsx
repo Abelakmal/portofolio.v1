@@ -1,6 +1,4 @@
-import React from "react";
 import { FaGithub, FaInstagram } from "react-icons/fa";
-import { MdOutlineEmail } from "react-icons/md";
 import { PiLinkedinLogo } from "react-icons/pi";
 const Footer = () => {
   return (
